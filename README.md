@@ -1,7 +1,4 @@
 # Quadratic Equations Solver
-
-[TODO. There will be project description]
-
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Запустить скрипт
+<pre><code> python quadratic_equation.py.py</code></pre>
+В результате скрипт отобразит информацию о том что все тесты прошли успешно.
